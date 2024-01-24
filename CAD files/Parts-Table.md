@@ -24,4 +24,4 @@ This table contains a list of parts required to build the experimental setup. Th
 **4**. 3 Bases that holds the Tubes - Head-fixing the mice; 3D printing.  
 **5**. 1 Beam Splitter Holder - Holding the beam splitter; 3D printing.  
 **6**. 1 Whisker Imaging Background - A board providing white background for better imaging quality and easier whisker tracking.  
-**7**. 2 Flexible Rail Adaptor - Fixing the Mouse Tube or other structure on the rail, allowing some spacial adjustments.
+**7**. 2 Flexible Rail Adaptors - Fixing the Mouse Tube or other structure on the rail, allowing some spacial adjustments.
